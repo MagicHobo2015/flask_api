@@ -1,0 +1,6 @@
+/.conda
+/.env
+/.vscode
+/Flask_api_Connection.session.sql
+/__init__.py
+/__pycache__
